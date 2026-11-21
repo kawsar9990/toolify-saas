@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "জনপ্রিয় টুলস",
+  "items": [
+    {
+      "id": "qr-code-generator",
+      "title": "কিউআর কোড জেনারেটর",
+      "subtitle": "সহজেই কাস্টম কিউআর কোড তৈরি করুন।",
+      "ctaLabel": "টুল খুলুন",
+      "href": "/tools/qr-code-generator",
+      "imageAlt": "কিউআর কোড জেনারেটর ছবি",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261082/Gemini_Generated_Image_t9b1mot9b1mot9b1-removebg-preview_tnkg2u.png"
+    },
+    {
+      "id": "calculator",
+      "title": "ক্যালকুলেটর",
+      "subtitle": "দ্রুত ও নির্ভুল হিসাব করুন।",
+      "ctaLabel": "টুল খুলুন",
+      "href": "/tools/calculator",
+      "imageAlt": "ক্যালকুলেটর ছবি",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795252498/images-removebg-preview_oyj4yf.png"
+    },
+    {
+      "id": "typing-speed-test",
+      "title": "টাইপিং স্পিড টেস্ট",
+      "subtitle": "আপনার টাইপিং গতি ও নির্ভুলতা যাচাই করুন।",
+      "ctaLabel": "টেস্ট শুরু করুন",
+      "href": "/tools/typing-speed-test",
+      "imageAlt": "টাইপিং স্পিড টেস্ট ছবি",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261227/Gemini_Generated_Image_t10elnt10elnt10e-removebg-preview_vysllj.png"
+    },
+    {
+      "id": "barcode-generator",
+      "title": "বারকোড জেনারেটর",
+      "subtitle": "মুহূর্তেই পরিচ্ছন্ন বারকোড তৈরি করুন।",
+      "ctaLabel": "টুল খুলুন",
+      "href": "/tools/barcode-generator",
+      "imageAlt": "বারকোড জেনারেটর ছবি",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261377/Gemini_Generated_Image_490t2a490t2a490t-removebg-preview_sbgxe5.png"
+    }
+  ]
+}

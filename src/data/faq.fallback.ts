@@ -1,0 +1,86 @@
+import type { FaqCategoryKey, FaqFallbackData } from "@/types/faq.types";
+
+export const FAQ_CATEGORY_KEYS: readonly FaqCategoryKey[] = [
+  "all",
+  "general",
+  "tools",
+  "security",
+  "account",
+] as const;
+
+export const FALLBACK_FAQ: FaqFallbackData = {
+  title: "Frequently Asked Questions",
+  subtitle:
+    "Everything you need to know about Toolify, its 100+ tools, login access, free & pro plans, and security.",
+  searchPlaceholder: "Search for a question, tool, or keyword...",
+  allCategories: "All",
+  categories: {
+    general: "General",
+    tools: "Tools & Usage",
+    security: "Login & Security",
+    account: "Free & Premium",
+  },
+  noResultsTitle: "No matching questions found",
+  noResultsDesc:
+    "We couldn't find anything matching your search. Try another keyword or reset the filters.",
+  clearSearch: "Reset Filters",
+  cta: {
+    title: "Still have questions?",
+    description:
+      "Can't find the answer you're looking for? Our support team is always ready to help you out.",
+    contactBtn: "Contact Support",
+    helpCenterBtn: "Visit Help Center",
+  },
+  items: [
+    {
+      id: "what-is-toolify-and-creator",
+      category: "general",
+      question: "What is Toolify and who built it?",
+      answer:
+        "Toolify is a modern all-in-one online tools platform featuring 100+ smart utilities designed for speed, simplicity, and everyday productivity. It is built by Kawsar Ahmed, a Diploma in CST Engineer and Software Engineer, to bring essential digital tools together in one clean workspace.",
+    },
+    {
+      id: "hundred-plus-tools",
+      category: "tools",
+      question:
+        "What types of tools are available among the 100+ tools on Toolify?",
+      answer:
+        "Toolify includes 100+ tools across multiple categories such as text & formatting utilities, developer & JSON/code helpers, image & media converters, generators, calculators, and daily productivity tools so users can handle different tasks from a single platform.",
+    },
+    {
+      id: "login-required-before-use",
+      category: "security",
+      question: "Do I need to log in before using the tools on Toolify?",
+      answer:
+        "Yes, signing in to your Toolify account is required before using the tools. Logging in helps keep access organized, protects workspace usage, saves your activity and preferences, and ensures consistent security across sessions.",
+    },
+    {
+      id: "free-and-premium-plans",
+      category: "account",
+      question: "How do Free and Premium access work on Toolify?",
+      answer:
+        "Toolify offers both Free and Premium options. Free users can access essential tools and standard usage limits, while Premium unlocks advanced tools, higher limits, and priority workspace features whenever you choose to upgrade.",
+    },
+    {
+      id: "data-and-account-security",
+      category: "security",
+      question: "How does Toolify protect my account and data security?",
+      answer:
+        "Account authentication, session protection, and safe data handling are core priorities on Toolify. We follow strong security practices to keep user accounts protected and avoid storing unnecessary sensitive data beyond what is needed to run your tasks.",
+    },
+    {
+      id: "how-to-use-tools-smoothly",
+      category: "tools",
+      question: "How do I use the tools after logging in?",
+      answer:
+        "Once you log in, open any tool from the workspace, enter your input or file, configure the available options, and get your result right away. You can switch between tools anytime and save your favourites for faster access.",
+    },
+    {
+      id: "support-and-tool-requests",
+      category: "general",
+      question: "Can I request new tools or get help if I face an issue?",
+      answer:
+        "Yes! If you want a specific new tool added to the 100+ collection, need help with your account, or spot an issue, you can reach out through the Contact page or Help Center for assistance.",
+    },
+  ],
+};

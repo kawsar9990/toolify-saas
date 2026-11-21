@@ -1,0 +1,41 @@
+{
+  "sectionTitle": "Featured Tools",
+  "items": [
+    {
+      "id": "qr-code-generator",
+      "title": "QR Code Generator",
+      "subtitle": "Create custom QR codes fast.",
+      "ctaLabel": "Open Tool",
+      "href": "/tools/qr-code-generator",
+      "imageAlt": "QR Code Generator illustration",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261082/Gemini_Generated_Image_t9b1mot9b1mot9b1-removebg-preview_tnkg2u.png"
+    },
+    {
+      "id": "calculator",
+      "title": "Calculator",
+      "subtitle": "Smart math & quick calculations.",
+      "ctaLabel": "Open Tool",
+      "href": "/tools/calculator",
+      "imageAlt": "Calculator illustration",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795252498/images-removebg-preview_oyj4yf.png"
+    },
+    {
+      "id": "typing-speed-test",
+      "title": "Typing Speed Test",
+      "subtitle": "Check your WPM & accuracy.",
+      "ctaLabel": "Start Test",
+      "href": "/tools/typing-speed-test",
+      "imageAlt": "Typing Speed Test illustration",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261227/Gemini_Generated_Image_t10elnt10elnt10e-removebg-preview_vysllj.png"
+    },
+    {
+      "id": "barcode-generator",
+      "title": "Barcode Generator",
+      "subtitle": "Generate clean barcodes in seconds.",
+      "ctaLabel": "Open Tool",
+      "href": "/tools/barcode-generator",
+      "imageAlt": "Barcode Generator illustration",
+      "imageSrc": "https://res.cloudinary.com/dkmzakgx2/image/upload/v1795261377/Gemini_Generated_Image_490t2a490t2a490t-removebg-preview_sbgxe5.png"
+    }
+  ]
+}

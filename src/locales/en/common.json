@@ -1,0 +1,49 @@
+{
+  "nav": {
+    "home": "Home",
+    "tools": "All Tools",
+    "membership": "Membership",
+    "favourites": "Favourites",
+    "login": "Login",
+    "signup": "Sign Up",
+    "profile": "Profile",
+    "menu": "Menu"
+  },
+  
+  "ui": {
+    "language": "Language",
+    "theme": "Theme",
+    "light": "Light",
+    "dark": "Dark"
+  },
+
+  "footer": {
+    "description": "Fast & smart online tools workspace designed for speed, simplicity, and everyday productivity.",
+    "exploreTitle": "Explore",
+    "policiesTitle": "Policies",
+    "links": {
+      "about": "About Us",
+      "contact": "Contact",
+      "faq": "FAQ",
+      "helpCenter": "Help Center",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookiePolicy": "Cookie Policy",
+      "refundPolicy": "Refund Policy"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Stay updated with new tools, feature releases, and tips straight to your inbox.",
+      "placeholder": "Enter your email",
+      "ariaLabel": "Email address for newsletter",
+      "subscribeBtn": "Subscribe",
+      "permissionError": "Please check the permission box first to subscribe.",
+      "successMsg": "Newsletter active for your email!",
+      "changeBtn": "Change",
+      "agreePrefix": "I agree to receive tool updates & newsletters and accept the",
+      "privacyLink": "Privacy Policy"
+    },
+    "copyright": "All rights reserved.",
+    "developedBy": "Developed by"
+  }
+}

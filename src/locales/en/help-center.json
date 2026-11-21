@@ -1,0 +1,132 @@
+{
+  "title": "Help Center",
+  "subtitle": "Find step-by-step guides for Toolify's 100+ tools, account access, plans, and quick fixes straight to WhatsApp for direct help from Kawsar.",
+  "searchPlaceholder": "Search guides by keyword, tool, login, or billing...",
+  "clearSearchLabel": "Clear search",
+  "lastUpdatedLabel": "Last updated:",
+  "lastUpdatedDate": "November 20, 2026",
+  "currentLangLabel": "Active Language:",
+  "topics": {
+    "all": "All Guides",
+    "gettingStarted": "Getting Started",
+    "toolsWorkspace": "Tools & Usage",
+    "accountBilling": "Account & Plans",
+    "troubleshooting": "Fixes & Support"
+  },
+  "guidesHeading": "Step-by-Step Help Guides",
+  "guidesSubheading": "Open any guide to view clear instructions or message Kawsar directly on WhatsApp about that exact topic.",
+  "askOnWhatsappLabel": "Ask on WhatsApp",
+  "emptyState": {
+    "title": "No matching help guide found",
+    "description": "Try a different keyword like login, tools, language, theme, or billing—or message us directly on WhatsApp.",
+    "resetButton": "Show All Guides"
+  },
+  "channelsHeading": "Direct Support Channels",
+  "channels": {
+    "whatsapp": {
+      "title": "Instant WhatsApp Help",
+      "subtitle": "Need fast assistance with a tool, account issue, or custom request? Chat directly on WhatsApp.",
+      "badge": "Fastest",
+      "ctaLabel": "Open WhatsApp"
+    },
+    "contact": {
+      "title": "Support Ticket / Contact",
+      "subtitle": "Send detailed feedback, bug reports, or new tool suggestions through the contact page.",
+      "badge": "Detailed",
+      "ctaLabel": "Go to Contact"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Browse quick answers on login rules, Free & Premium tiers, and platform security.",
+      "badge": "Quick Answers",
+      "ctaLabel": "View FAQ"
+    }
+  },
+  "footerBanner": {
+    "title": "Still need personalized help?",
+    "description": "Kawsar and the Toolify support team are ready to help you get the most out of your workspace.",
+    "ownerTag": "Built & Supported by Kawsar • Toolify",
+    "whatsappCta": "Chat on WhatsApp",
+    "toolsCta": "Explore Tools"
+  },
+  "items": [
+    {
+      "id": "account-login-access",
+      "topic": "getting-started",
+      "badge": "Account",
+      "title": "How to Sign In & Access Your Workspace",
+      "summary": "Learn how signing in unlocks your Toolify workspace, saves preferences, and keeps sessions organized.",
+      "steps": [
+        "Go to the login screen and sign in with your authorized Toolify account.",
+        "Once authenticated, you will be routed to the workspace and available tools.",
+        "If a session expires or looks stuck, sign out once and log back in cleanly."
+      ],
+      "whatsappPrefill": "Hi Kawsar, I need help signing in / accessing my Toolify account."
+    },
+    {
+      "id": "using-hundred-plus-tools",
+      "topic": "tools-workspace",
+      "badge": "100+ Tools",
+      "title": "How to Find & Run Tools Smoothly",
+      "summary": "Navigate across utilities, provide input data, and get instant results without friction.",
+      "steps": [
+        "Open the Tools section and pick the utility you need (text, code, generator, calculator, or converter).",
+        "Enter your input or settings carefully inside the tool panel.",
+        "Run the action, copy or download the output, and switch to another tool anytime."
+      ],
+      "whatsappPrefill": "Hi Kawsar, I have a question about using one of the tools on Toolify."
+    },
+    {
+      "id": "language-and-theme-switch",
+      "topic": "tools-workspace",
+      "badge": "EN / বাং & Theme",
+      "title": "Switching Between English & Bangla (EN / বাং) and Dark / Light Mode",
+      "summary": "Customize your reading language and screen brightness across pages seamlessly.",
+      "steps": [
+        "Use the EN / বাং toggle button in the header to switch between English and Bangla.",
+        "Use the theme toggle button to switch between Light and Dark appearance.",
+        "Refresh the page if needed—saved browser preferences will stay applied."
+      ],
+      "whatsappPrefill": "Hi Kawsar, I noticed an issue with language (EN/BN) or theme switching on Toolify."
+    },
+    {
+      "id": "free-vs-premium-plans",
+      "topic": "account-billing",
+      "badge": "Plans & Billing",
+      "title": "Understanding Free & Premium Access and Billing",
+      "summary": "See what is included on Free vs. Premium and what to do if you need billing support.",
+      "steps": [
+        "Start with Free access to explore core features and standard usage limits.",
+        "Upgrade to Premium when you need higher limits or expanded workspace capabilities.",
+        "For payment or refund questions, keep your transaction reference handy and reach out."
+      ],
+      "whatsappPrefill": "Hi Kawsar, I need help with Toolify Free/Premium plans or billing."
+    },
+    {
+      "id": "request-new-tool",
+      "topic": "getting-started",
+      "badge": "Feature Request",
+      "title": "How to Request a New Tool or Feature",
+      "summary": "Have an idea for a helpful utility or workflow improvement on Toolify? Share it with Kawsar.",
+      "steps": [
+        "Write down what the tool should do, what input it takes, and what output you expect.",
+        "Check if a similar utility already exists in the tools list.",
+        "Send your idea via WhatsApp or the Contact page so Kawsar can review it for future updates."
+      ],
+      "whatsappPrefill": "Hi Kawsar, I would like to suggest a new tool / feature for Toolify:"
+    },
+    {
+    "id": "fix-display-or-cache-issues",
+    "topic": "troubleshooting",
+    "badge": "Troubleshooting",
+    "title": "Fixing Display Glitches, Stale Cache, or Loading Issues",
+    "summary": "Quick steps to resolve layout glitches, outdated text, or browser cache problems.",
+    "steps": [
+      "Hard-refresh the page (Ctrl + Shift + R or Cmd + Shift + R) to load fresh assets.",
+      "Temporarily pause aggressive ad-blockers or extensions if a UI element looks blocked.",
+      "If the issue continues, share a screenshot with Kawsar on WhatsApp."
+    ],
+    "whatsappPrefill": "Hi Kawsar, I am facing a display or loading issue on Toolify and can share details."
+}
+  ]
+}

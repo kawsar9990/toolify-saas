@@ -1,0 +1,64 @@
+{
+  "badge": "About Toolify & Creator",
+  "title": "Crafting Fast, Practical Tools for Everyday Builders",
+  "subtitle": "Toolify brings 100+ focused web utilities into one clean workspace—created and maintained by Kawsar to save time, reduce friction, and keep daily digital work effortless.",
+  "roleTag": "Founder, Full-Stack Developer & SEO Specialist",
+  "creatorName": "Kawsar Ahmed",
+  "profileImageCaption": "Kawsar • Creator of Toolify",
+  "homePreviewBadge": "Home Showcase",
+  "homePreviewTitle": "Toolify Home Workspace",
+  "homePreviewCaption": "Clean UI, EN / বাং support & fast utility access",
+  "lastUpdatedLabel": "Last updated:",
+  "lastUpdatedDate": "November 20, 2026",
+  "currentLangLabel": "Active Language:",
+  "highlights": [
+    {
+      "label": "Utilities",
+      "value": "100+",
+      "detail": "Everyday tools in one hub"
+    },
+    {
+      "label": "Languages",
+      "value": "EN / বাং",
+      "detail": "Bilingual interface support"
+    },
+    {
+      "label": "Experience",
+      "value": "Clean UI",
+      "detail": "Responsive & dark/light ready"
+    }
+  ],
+  "storySection": {
+    "eyebrow": "The Story Behind Toolify",
+    "title": "Why Kawsar Built a Single Workspace for Everyday Tasks",
+    "paragraphs": [
+      "Working on web apps, interfaces, and daily digital tasks often means jumping across slow, ad-heavy websites just to format text, check data, or run a quick utility. Toolify started with a simple goal: put 100+ practical tools inside one fast, distraction-free platform.",
+      "Every detail—from bilingual English & Bangla switching and dark/light themes to mobile-friendly layouts—is shaped by Kawsar with real-world developer and user workflows in mind."
+    ]
+  },
+  "pillarsHeading": "What Shapes Every Tool on Toolify",
+  "pillars": {
+    "craft": {
+      "title": "Thoughtful Engineering",
+      "badge": "Quality",
+      "description": "Built with clean architecture, responsive layouts, and attention to small interactions so tools feel dependable every day."
+    },
+    "speed": {
+      "title": "Instant Workflow Speed",
+      "badge": "Fast",
+      "description": "Designed to get you from input to result quickly without clutter, unnecessary steps, or confusing screens."
+    },
+    "accessibility": {
+      "title": "Bilingual & Adaptable",
+      "badge": "EN / বাং",
+      "description": "Supports English and Bangla interfaces alongside light and dark themes so you can work comfortably in your preferred style."
+    }
+  },
+  "ctaBanner": {
+    "title": "Ready to Explore the Workspace?",
+    "description": "Jump into Toolify's tools or reach out directly to Kawsar if you have feedback, ideas, or feature requests.",
+    "ownerNote": "Created & Maintained by Kawsar • Toolify Platform",
+    "primaryCta": "Explore 100+ Tools",
+    "secondaryCta": "Get in Touch"
+  }
+}

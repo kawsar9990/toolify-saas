@@ -1,0 +1,22 @@
+{
+  "sectionTitle": "Categories",
+  "sectionSubtitle": "Explore tools by category",
+  "countSuffix": {
+    "single": "Tool",
+    "plural": "Tools"
+  },
+  "items": {
+    "calculation-converter": { "title": "Calculation & Converter" },
+    "device-tools": { "title": "Device Tools" },
+    "qr-scanner": { "title": "QR & Scanner" },
+    "productivity": { "title": "Productivity" },
+    "daily-tools": { "title": "Daily Tools" },
+    "image-design": { "title": "Image & Design" },
+    "video tool": { "title": "Video Tools" },
+    "pdf-document": { "title": "PDF & Document" },
+    "security-utilities": { "title": "Security Utilities" },
+    "student-academic": { "title": "Student & Academic" },
+    "ai-coding": { "title": "AI & Coding" },
+    "religious": { "title": "Religious" }
+  }
+}

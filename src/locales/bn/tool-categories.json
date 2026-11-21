@@ -1,0 +1,22 @@
+{
+  "sectionTitle": "ক্যাটাগরি",
+  "sectionSubtitle": "ক্যাটাগরি অনুযায়ী টুলস দেখুন",
+  "countSuffix": {
+    "single": "টি টুল",
+    "plural": "টি টুল"
+  },
+  "items": {
+    "calculation-converter": { "title": "ক্যালকুলেশন ও কনভার্টার" },
+    "device-tools": { "title": "ডিভাইস টুলস" },
+    "qr-scanner": { "title": "কিউআর ও স্ক্যানার" },
+    "productivity": { "title": "প্রোডাক্টিভিটি" },
+    "daily-tools": { "title": "ডেইলি টুলস" },
+    "image-design": { "title": "ইমেজ ও ডিজাইন" },
+    "video tool": { "title": "ভিডিও টুলস" },
+    "pdf-document": { "title": "পিডিএফ ও ডকুমেন্ট" },
+    "security-utilities": { "title": "সিকিউরিটি ইউটিলিটি" },
+    "student-academic": { "title": "স্টুডেন্ট ও একাডেমিক" },
+    "ai-coding": { "title": "এআই ও কোডিং" },
+    "religious": { "title": "রিলিজিয়াস" }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "showcase": {
+    "title": "ডেস্কটপে ওয়েবসাইট। ফোনে পূর্ণাঙ্গ অ্যাপ।",
+    "description": "কম্পিউটারে পাবেন হেডার ও বড় টুল গ্রিডসহ সম্পূর্ণ Toolify ওয়েবসাইট। ফোনে একই অ্যাকাউন্ট বড় টাইলস ও বটম ট্যাব বারসহ অ্যাপ লেআউটে রূপ নেয়।",
+    "ctaLabel": "ফ্রি অ্যাকাউন্ট তৈরি করুন",
+    "ctaHref": "/signup",
+    "searchPlaceholder": "Toolify খুঁজুন...",
+    "tools": [
+      { "id": "calculator", "badge": "=", "label": "ক্যালকুলেটর" },
+      { "id": "short-link", "badge": "↗", "label": "শর্ট লিংক" },
+      { "id": "qr-code", "badge": "QR", "label": "QR কোড" },
+      { "id": "password", "badge": "••", "label": "পাসওয়ার্ড" },
+      { "id": "pdf-merge", "badge": "PDF", "label": "PDF মার্জ" },
+      { "id": "remove-bg", "badge": "BG", "label": "ব্যাকগ্রাউন্ড রিমুভ" }
+    ],
+    "tabs": [
+      { "id": "home", "label": "হোম", "active": true },
+      { "id": "tools", "label": "টুলস", "active": false },
+      { "id": "plans", "label": "প্ল্যান", "active": false },
+      { "id": "account", "label": "অ্যাকাউন্ট", "active": false }
+    ]
+  },
+  "promoBanner": {
+    "title": "আপনার প্রথম মাস একদম ফ্রি।",
+    "description": "Toolify অ্যাকাউন্ট তৈরি করুন, প্রতিটি টুল ব্যবহার করে দেখুন এবং চালিয়ে যেতে চাইলে তবেই প্ল্যান বেছে নিন।",
+    "ctaLabel": "ফ্রি অ্যাকাউন্ট তৈরি করুন",
+    "ctaHref": "/signup"
+  }
+}
